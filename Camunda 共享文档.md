@@ -11,6 +11,8 @@
 
 Camunda BPM 是使用 Java 开发的，其核心流程引擎（也叫 Camunda 引擎，简称引擎）运行在 JVM 里面，是一个纯 Java 库。
 
+![078bab7831575b33d31aa60fa590169a](/Users/solightyu/Documents/GitHub/HIT-SMA/Notesimage/078bab7831575b33d31aa60fa590169a.png)
+
 ### 学习文档
 
 官方文档：https://forum.camunda.io/
